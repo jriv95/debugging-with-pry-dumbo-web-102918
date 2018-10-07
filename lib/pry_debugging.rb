@@ -5,4 +5,4 @@ def plus_two(num)
   num
 end
 
-plus_two
+plus_two(num)
