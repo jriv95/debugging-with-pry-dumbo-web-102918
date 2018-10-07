@@ -2,7 +2,5 @@ def plus_two(num)
 	num + 2
   sum = num + 2
   sum = num
-  num
+  sum
 end
-
-plus_two(5)
